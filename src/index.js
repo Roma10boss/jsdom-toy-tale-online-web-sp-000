@@ -95,7 +95,5 @@ const createToy = toy => {
     .then(showToy(toy))
 }
 
-// call the initialize function at the end of the page- when the page loads
-// make the fetch request and start the js
 
 initialize()
